@@ -27,6 +27,10 @@ Any contribution is well received, I will try to make this space as open as poss
 # Main concepts
 
 1º An uncesorable and unstopable poker software build on top of the lightning network technology.
-2º A random and verifiable way to generate the deals of the deck
-3º No need to deliver your money in advance
-4º Quick transactions to make chip payments in game (btc, no token)
+
+2º A random and verifiable way to generate the deals of the deck.
+
+3º No need to deliver your money in advance.
+
+4º Quick transactions to make chip payments in game (btc, no token).
+
